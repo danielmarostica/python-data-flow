@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+LC_ALL=C.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+# Run every day at 0830
+30 08 * * *   root    cd /app && python main.py >> /tmp/dataflows.log 2>&1

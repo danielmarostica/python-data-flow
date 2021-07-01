@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dataflows-WHATTHEENV
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: dataflows-WHATTHEENV
+  template:
+    metadata:
+      labels:
+        name: dataflows-WHATTHEENV
+      name: dataflows-WHATTHEENV
+    spec:
+      containers:
+        - name: dataflows-WHATTHEENV
+          image: us.icr.io/dataflows/dataflows-WHATTHEENV:latest

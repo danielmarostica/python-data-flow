@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gspread-connection-303873",
+  "private_key_id": "2acbc88d8cde13646d15",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvCBKcwggSjIBAQDEiNWfIou0HyIP\n8Oe7GKfu6YFi0OZaI3Ad63srml21kHOmGO1rpPL4vPVpZE0VkdowH\nsrErxRC3FpnGjoOViKPpWpAn7hzjerfWnFRCe4E4CudAW\ngfiGg0LWb/0Rrbt/myKpLS9ZA4nTle/14vU9HIaxU3VqUy4YyV5qoTnvwREvLq/D\nvRW3R0smOLmc93dhHBej2IXQYYM/Cuzrp0W/pSJxGf6DWzRXn4gc2hZc0Lv3+SwElM3sQnUsITp8O83D0EN30bk03\nTz1y+1ctAgMBAAECggEADKey+bhDvqlyjAw782RpIKpiO6BialBZbZJAoGAfSuaPJ9pj3NiQISBlJD5\nRC+XbmO0zwVuPuhN3dO1gVzexel6K9xyKBeyiYaea7ttcbqE2Qq9i0yL0DIPqb5d\nG51PiteLSoGwWzVT29D1UiNglWm8U/retWrsfUQUlh7KM/5oYwLRajtHTr2M=\n-----END PRIVATE KEY-----\n",
+  "client_email": name@nameconnection-3013.iam.gserviceaccount.com",
+  "client_id": "11467542871",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/connection-3013.iam.gserviceaccount.com"
+}
